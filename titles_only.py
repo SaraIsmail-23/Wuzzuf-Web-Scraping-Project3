@@ -1,7 +1,7 @@
 import sara_scrap_function
 
 def get_titles():
-    table = sara_scrap_function.scrap()
+    table = scrap_function.scrap()
     titles_st = table['titles'].tolist()
     return titles_st
 

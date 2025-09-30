@@ -29,7 +29,7 @@ def scrap():
     scraped_data['specs'] = specs_list
 
     table = pd.DataFrame(scraped_data)
-    table.to_csv('Sara_Scraped_file_py.csv', index = False)
+    table.to_csv('Scraped_file_py.csv', index = False)
     print('Jobs Scraped Sucessfully')
     return table
 
