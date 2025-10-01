@@ -3,5 +3,5 @@ This is a web scraping python project for scraping "data analysis" , "data scien
 Scraping from URL: https://wuzzuf.net/search/jobs?q=
 
 Extract python and notebook files in addition to a CSV file for all extracting data
-Note that:
+## Note that:
 there are to separting projects one for machine learning job scraping and the second one is appliccation on the 3 jobs
