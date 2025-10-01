@@ -1,4 +1,4 @@
-import sara_scrap_function
+import scrap_function
 
 def get_titles():
     table = scrap_function.scrap()
